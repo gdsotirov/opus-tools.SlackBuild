@@ -1,0 +1,11 @@
+opus-tools: Opus Tools (Opus codec command line tools)
+opus-tools:
+opus-tools: This package provides the reference implementations of encoder
+opus-tools: and decoder utilities for libopus.
+opus-tools:
+opus-tools:
+opus-tools:
+opus-tools:
+opus-tools:
+opus-tools:
+opus-tools: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
